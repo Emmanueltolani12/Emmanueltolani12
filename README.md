@@ -5,7 +5,7 @@
 - 💬 Reach out to me about R & python for data analytics
 - 🤓 Learning about geospatial analysis for sustainable agriculture
 - 📫 Get in touch through:
-    - [🐱‍💻@EmmanuelTolani](https://twitter.com/home)
+    - [🐱‍💻X](https://x.com/EmmanuelTolani)
     - [📩email](emmanueltolani@gmail.com)
     - [👩‍💻LinkedIn](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
 - 😄Pronouns: He/Him
