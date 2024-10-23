@@ -6,6 +6,6 @@
 - 🤓 Learning about geospatial analysis for sustainable agriculture and nutrition security
 - 📫 Get in touch through:
     - [🐱‍💻X](https://x.com/EmmanuelTolani)
-    - [📩email](emmanueltolani@gmail.com)
+    - [📩emmanueltolani@gmail.com](emmanueltolani@gmail.com)
     - [👩‍💻LinkedIn](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
 - 😄Pronouns: He/Him
