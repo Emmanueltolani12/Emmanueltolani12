@@ -8,4 +8,5 @@
     - [📩emmanuel.tolani@tum.de](emmanuel.tolani@tum.de)
     - [🐱‍💻X](https://x.com/EmmanuelTolani)
     - [👩‍💻LinkedIn](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
+    - Website: https://emmanueltolani12.github.io/
 - 😄Pronouns: He/Him
