@@ -12,7 +12,7 @@
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
   - [![Github](https://img.shields.io/badge/Github-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23A6CE39&labelColor=black&color=%23FFFFFF)](https://github.com/emmanueltolani12/)
   - [![](https://img.shields.io/badge/GoogleScholar-%234285F4%20?style=for-the-badge&logo=%234285F)](https://scholar.google.com/citations?user=3YRItr8AAAAJ&hl=en)
-  - Website: https://emmanueltolani12.github.io/
+  - [Website:](https://emmanueltolani12.github.io/)
 - 😄Pronouns: He/Him
 
 ------------------------------------------------------------------------
