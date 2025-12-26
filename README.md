@@ -7,6 +7,7 @@
 - 🤓 Currently learning about probabilistic geospatial analysis for sustainable agriculture and nutrition security
 - 📫 Get in touch through:
     - [📩emmanuel.tolani@tum.de](emmanuel.tolani@tum.de)
+    - [![ORCID](https://img.shields.io/badge/ORCID-0000-0001-6084-1192-green)](https://orcid.org0000-0001-6084-1192)
     - [![🐱‍💻X](https://img.shields.io/badge/X-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23000000&color=black)](https://x.com/EmmanuelTolani)
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
     - [![Github](https://img.shields.io/badge/Github-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23181717&color=grey50)](https://github.com/emmanueltolani12/)
