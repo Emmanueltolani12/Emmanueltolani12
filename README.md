@@ -9,6 +9,7 @@
     - [📩emmanuel.tolani@tum.de](emmanuel.tolani@tum.de)
     - [![🐱‍💻X](https://img.shields.io/badge/X-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23000000&color=black)](https://x.com/EmmanuelTolani)
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
+    - [![Github](https://img.shields.io/badge/Github-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23181717&color=grey50)](https://github.com/emmanueltolani12/)
     - Website: https://emmanueltolani12.github.io/
 - 😄Pronouns: He/Him
 
