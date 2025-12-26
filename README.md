@@ -8,8 +8,8 @@
 - 📫 Get in touch through:
     - [📩emmanuel.tolani@tum.de](emmanuel.tolani@tum.de)
     - [🐱‍💻X](https://x.com/EmmanuelTolani)
-    - - [![🐱‍💻X](https://img.shields.io/badge/https%3A%2F%2Fx.com%2FEmmanuelTolani)](https://x.com/EmmanuelTolani)
-    - [![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-tolani-8037456b%2F)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
+    - - [![🐱‍💻X](https://img.shields.io/badge/X-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23000000&color=black)](https://x.com/EmmanuelTolani)
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
     - [👩‍💻LinkedIn](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
     - Website: https://emmanueltolani12.github.io/
 - 😄Pronouns: He/Him
