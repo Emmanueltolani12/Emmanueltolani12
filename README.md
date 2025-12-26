@@ -27,6 +27,9 @@ Coming soon...
 **📦 R Packages - Private 🔒**<br>
 Coming soon...
 
+**📦 Stata Packages - Private 🔒**<br>
+Coming soon...
+
 ------------------------------------------------------------------------
 
 **🔁 Replication Packages** <br>
