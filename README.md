@@ -6,12 +6,12 @@
 - 💬 Reach out to me about R & python for data analytics
 - 🤓 Currently learning about probabilistic geospatial analysis for sustainable agriculture and nutrition security
 - 📫 Get in touch through:
-  - [📩emmanuel.tolani@tum.de](emmanuel.tolani@tum.de) or [emmanueltolani@gmail.com](emmanueltolani@gmail.com)
-  - [![ORCID](https://img.shields.io/badge/ORCID-0000%200001%206084%201192-green?style=for-the-badge&logo=%23A6CE39&color=grey50)](https://orcid.org/0000-0001-6084-1192)
-  - [![🐱‍💻X](https://img.shields.io/badge/X-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23000000&color=black)](https://x.com/EmmanuelTolani)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
-  - [![Github](https://img.shields.io/badge/Github-Emmanuel%20Tolani-blue?style=for-the-badge&logo=%23A6CE39&labelColor=black&color=%23FFFFFF)](https://github.com/emmanueltolani12/)
-  - [![](https://img.shields.io/badge/GoogleScholar-%234285F4%20?style=for-the-badge&logo=%234285F)](https://scholar.google.com/citations?user=3YRItr8AAAAJ&hl=en)
+  - [📩 emmanuel.tolani@tum.de](mailto:emmanuel.tolani@tum.de) or [emmanueltolani@gmail.com](mailto:emmanueltolani@gmail.com)
+  - [<img align="absmiddle" alt="ORCID" src="https://img.shields.io/badge/ORCID-0000%200001%206084%201192-808080?style=for-the-badge&amp;logo=orcid">](https://orcid.org/0000-0001-6084-1192)
+  - [<img align="absmiddle" alt="X" src="https://img.shields.io/badge/X-Emmanuel%20Tolani-black?style=for-the-badge&amp;logo=x&amp;logoColor=white">](https://x.com/EmmanuelTolani)
+  - [<img align="absmiddle" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Tolani-blue?style=for-the-badge&amp;logo=linkedin">](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
+  - [<img align="absmiddle" alt="GitHub" src="https://img.shields.io/badge/GitHub-Emmanuel%20Tolani-white?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=black">](https://github.com/emmanueltolani12/)
+  - [<img align="absmiddle" alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white">](https://scholar.google.com/citations?user=3YRItr8AAAAJ&hl=en)
   - [Website](https://emmanueltolani12.github.io/)
 - 😄Pronouns: He/Him
 
